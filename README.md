@@ -15,31 +15,51 @@ This project uses Deep Learning + Computer Vision + LLM chatbot to detect skin c
 #We trained multiple image classification models:
 
 CNN (Custom Model)
+
 VGG16 (Transfer Learning)
+
 ResNet50 (Transfer Learning)
 
 # Chatbot using LangChain
 
 We built a smart skincare assistant using LangChain + LLM
 The chatbot can:
+
 Explain detected skin problems
+
 Suggest skincare routines
+
 Recommend products
+
 Answer general skin questions
 
 # Tech inside
 
 LLM model
+
 LangChain framework
+
 RAG (Retrieval-Augmented Generation)
 
-#AI
+# AI
 
 CNN
+
 VGG
+
 ResNet
+
 LLM
+
 LangChain
+
+# Deployment
+
+Streamlit (App)
+
+Kaggle
+
+FastAPI (optional)
 Vector Embeddings
 
 #Deployment
