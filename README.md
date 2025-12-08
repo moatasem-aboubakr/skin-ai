@@ -7,12 +7,16 @@ This project uses Deep Learning + Computer Vision + LLM chatbot to detect skin c
  # What the System Does
 
 ✔ Upload a face image
+
 ✔ Detect skin condition using deep learning
+
 ✔ Classify different issues such as acne, wrinkles, pores ,blackheads , dark circles
+
 ✔ Chat with an AI skincare assistant
+
 ✔ Get recommendations and routines
 
-#We trained multiple image classification models:
+# We trained multiple image classification models:
 
 CNN (Custom Model)
 
@@ -45,9 +49,9 @@ RAG (Retrieval-Augmented Generation)
 
 CNN
 
-VGG
+VGG16
 
-ResNet
+ResNet50
 
 LLM
 
